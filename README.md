@@ -2,7 +2,7 @@
 This is a replay of the following: https://github.com/mjhea0/flaskr-tdd
 
 # Test Case
-https://github.com/ECE444-2023Fall/project-1-web-application-design-group13-giggelz/blob/main/app_test.py#L69-85
+https://github.com/ECE444-2023Fall/project-1-web-application-design-group13-giggelz/blob/main/app_test.py#L69-100
 
 # Pros & Cons of TDD
 Pro of Test-Driven Development (TDD):
